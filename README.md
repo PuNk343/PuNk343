@@ -85,12 +85,11 @@
 
 ---
 
-## `🏆  TROPHIES`
+## `📡  TRANSMISSION HISTORY`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PuNk343&theme=matrix&no-bg=true&no-frame=true&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PuNk343&bg_color=0d0d0d&color=00ff88&line=00cc66&point=00ff88&area=true&area_color=00ff88&hide_border=true"/>
 </div>
-
 ---
 
 ## `⟳  COSMIC ACTIVITY`
