@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">🟢 Punk // Orbital Node</h1>
 
-<!--
-**PuNk343/PuNk343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF88&center=true&vCenter=true&lines=Booting+Orbital+System...;Scanning+Cosmic+Signals...;Building+Intelligent+Systems..." />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+"A signal in the void, writing code between stars."
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌌 🌠 🛰️ 🌠 🌌
+
+---
+
+## 🛰️ BOOT SEQUENCE
+
+```bash
+> initializing orbital system...
+
+User: Punk
+Role: Data Science Explorer
+Location: Earth 🌍 (temporary orbit)
+
+Focus: Machine Learning | Systems | Automation
+
+Languages: Python | C++ | SQL
+Environment: Fedora Linux | VS Code | Git
+
+Status: Building quietly in the void...
+
+> system stable ✔
