@@ -16,10 +16,10 @@ B.Tech Data Science @ GH Raisoni COEM · BS Data Science @ IIT Madras · Busines
 
 I build modular, locally-run AI systems and data pipelines — currently working on **Helix**, an AI supervisor/orchestration platform, alongside applied ML and NLP projects. On the business side, I run BD pipeline and outreach strategy for an EdTech/enterprise ERP product. I like systems that are exhaustively understood, not just working.
 
-- 🔭 Currently building **Helix** — modular AI orchestration platform
-- 🌱 Deepening ML/NLP fundamentals and PySpark-based data engineering
-- ⚙️ Daily driver: Fedora Linux + Hyprland
-- 🎙️ Toastmasters — competitive speaking & leadership roles
+- Currently building **Helix** — modular AI orchestration platform
+- Deepening ML/NLP fundamentals and PySpark-based data engineering
+- Daily driver: Fedora Linux + Hyprland
+- Toastmasters — competitive speaking & leadership roles
 
 ---
 
