@@ -49,9 +49,6 @@ I build modular, locally-run AI systems and data pipelines — currently working
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PuNk343&show_icons=true&hide_border=true&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com?user=PuNk343&hide_border=true&theme=tokyonight" />
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PuNk343&hide_border=true&theme=tokyo-night" />
