@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vigneya Bhatt (PuNk343)
+# Vigneya Bhatt
 
 **Data Science student building AI orchestration tools & applied ML systems**
 
